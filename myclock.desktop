@@ -1,0 +1,11 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Hearts Clock
+Comment=A game-like hearts meter until midnight.
+Icon=xfce4-panel
+X-XFCE-Module=myclock
+X-XFCE-Internal=false
+X-XFCE-Unique=false
+X-XFCE-API=2.0
+
